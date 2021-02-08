@@ -23,7 +23,7 @@ simply type
 
 ***must have at least python3.6
 
-***as of now the right click function does not work so to copy and paste you must use the hotkeys, such as, `CTRL + C` and 'CTRL + V'
+***as of now the right click function does not work. To copy and paste you must use the hotkeys, `CTRL + C` and `CTRL + V`
 
 
 this is alpha testing. use at your own risk
